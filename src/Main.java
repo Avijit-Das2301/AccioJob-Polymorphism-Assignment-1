@@ -16,5 +16,6 @@ class Main {
         System.out.println(p.product(5,10));
         System.out.println(p.product(5,10,15));
         System.out.println(p.product(2.5,5.5));
+        
     }
 }
